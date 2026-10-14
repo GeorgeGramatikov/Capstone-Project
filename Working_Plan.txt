@@ -1,0 +1,21 @@
+5-10 Questions on what we are looking into:
+
+1. How do temperatures in Yakutsk, Russia, change throughout the year?
+
+2. How do monthly precipitation and snowfall patterns differ across the selected locations?
+
+3. Which selected location receives the most annual snowfall?
+
+4. Which selected location experiences the lowest temperatures?
+
+5. Which selected location experiences the highest temperatures?
+
+6. How do average monthly temperatures compare across the selected locations?
+
+7. What long-term temperature trends are visible in Antarctica? (Global Warming)?
+
+
+Datasets:
+- All my weather datasets were taken using Historical Weather API https://open-meteo.com/en/docs/historical-weather-api
+- Data was accessed on October 12, 2026
+APA Citation: Open-Meteo. (n.d.). Historical weather API. Retrieved October 12, 2026, from https://open-meteo.com/en/docs/historical-weather-api
