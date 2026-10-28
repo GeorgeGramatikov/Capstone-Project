@@ -14,8 +14,15 @@
 pyvenv.cfg
 install.txt
 ERD.excalidraw
+requirements.txt
 
 .venv/
 __pycache__/
 *.pyc
 .env
+
+# Ignore project data
+data/
+
+# Keep the combined weather dataset
+!data/combined_weather.csv

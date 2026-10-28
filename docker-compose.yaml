@@ -1,0 +1,15 @@
+services:
+  airflow: # 1. service name
+    build: . # 2. image
+    container_name: capstone-airflow # 3. container name
+    hostname: capstone-airflow # 4. Host name
+    command: airflow standalone # 5. run the primary command
+    ports:
+      - "8085:8080" # 6. Airflow web UI
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./scripts:/opt/airflow/scripts
+      - ./sql:/opt/airflow/sql
+      - ./data:/opt/airflow/data
+      - ./.env:/opt/airflow/project.env:ro
+    restart: unless-stopped #docker to restart my container if it unexpectedly stops

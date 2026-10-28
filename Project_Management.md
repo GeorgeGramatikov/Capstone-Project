@@ -127,7 +127,7 @@ The goal of this project is to build a data engineering pipeline that processes 
 | **Tools** | Python, PySpark, Snowflake, SQL |
 | **Status** | Completed |
 | **Actual Time Spent** |  |
-| **Actual Completion Date** |  |
+| **Actual Completion Date** | October 16, 2026 |
 
 ### Tasks
 
@@ -164,8 +164,8 @@ The goal of this project is to build a data engineering pipeline that processes 
 | **Target Completion Date** | October 20, 2026 |
 | **Tools** | Apache Airflow, Python, PySpark, Docker |
 | **Status** | Planned |
-| **Actual Time Spent** | __________ |
-| **Actual Completion Date** | __________ |
+| **Actual Time Spent** | 8 hours |
+| **Actual Completion Date** | October 21, 2026 |
 
 ### Tasks
 
@@ -188,8 +188,8 @@ The goal of this project is to build a data engineering pipeline that processes 
 | **Target Completion Date** | October 21, 2026 |
 | **Tools** | Snowflake SQL |
 | **Status** | In Progress / Update |
-| **Actual Time Spent** | __________ |
-| **Actual Completion Date** | __________ |
+| **Actual Time Spent** | 4 hours |
+| **Actual Completion Date** | October 19, 2026 |
 
 ### Tasks
 
@@ -204,23 +204,11 @@ The goal of this project is to build a data engineering pipeline that processes 
 
 ---
 
-## MACHINE LEARNING MODEL (OPTIONAL)
-
-| | |
-|---|---|
-| **Estimated Time** | 4–6 hours |
-| **Target Completion Date** | October 22, 2026 |
-| **Tools** | Python, Pandas, Scikit-learn |
-| **Status** | Optional |
-| **Actual Time Spent** | __________ |
-| **Actual Completion Date** | __________ |
-
 ### Tasks
 
 - Select a suitable prediction problem, such as predicting daily mean temperature.
 - Prepare the dataset and select relevant features.
 - Split the data into training and testing sets using a time-aware approach.
-- Train a baseline machine learning model.
 - Evaluate the model using appropriate metrics, such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
 - Document the results and limitations.
 
@@ -234,8 +222,8 @@ The goal of this project is to build a data engineering pipeline that processes 
 | **Target Completion Date** | October 22, 2026 |
 | **Tools** | Paper sketches, diagrams, Plotly |
 | **Status** | Planned |
-| **Actual Time Spent** | __________ |
-| **Actual Completion Date** | __________ |
+| **Actual Time Spent** | 2 hours |
+| **Actual Completion Date** | October 22, 2026 |
 
 ### Tasks
 
@@ -258,8 +246,8 @@ The goal of this project is to build a data engineering pipeline that processes 
 | **Target Completion Date** | October 24, 2026 |
 | **Tools** | Python, Dash, Plotly, Snowflake |
 | **Status** | Planned |
-| **Actual Time Spent** | __________ |
-| **Actual Completion Date** | __________ |
+| **Actual Time Spent** | 30 hours |
+| **Actual Completion Date** | October 27, 2026 |
 
 ### Tasks
 
@@ -283,8 +271,8 @@ The goal of this project is to build a data engineering pipeline that processes 
 | **Target Completion Date** | October 26, 2026 |
 | **Tools** | PowerPoint, project documentation, Dash dashboard |
 | **Status** | Planned |
-| **Actual Time Spent** | __________ |
-| **Actual Completion Date** | __________ |
+| **Actual Time Spent** | 4 hours |
+| **Actual Completion Date** | October 27, 2026 |
 
 ### Tasks
 
@@ -306,9 +294,6 @@ The goal of this project is to build a data engineering pipeline that processes 
 | Category | Estimated Time |
 |----------|----------------|
 | **Core project tasks** | Approximately 28–42 hours |
-| **Optional machine learning** | Additional 4–6 hours |
-
-> **Note:** Some tasks overlap because the same work contributes to multiple deliverables. Record actual hours as work progresses to avoid double-counting.
 
 ---
 
@@ -321,27 +306,25 @@ The goal of this project is to build a data engineering pipeline that processes 
 5. Build and test the Airflow DAG.
 6. Sketch and build the dashboard visualizations.
 7. Prepare and practice the final presentation.
-8. Complete optional machine learning only if time permits.
 
 ---
 
 ## FINAL PROJECT CHECKLIST
 
-- [ ] All source datasets inspected and documented.
-- [ ] Weather data imported successfully.
-- [ ] Data cleaning and validation completed.
-- [ ] ERD and DDL completed.
-- [ ] Raw and transformed data stored appropriately.
-- [ ] ETL pipeline runs successfully.
-- [ ] ETL documentation completed.
-- [ ] Airflow DAG runs successfully.
-- [ ] Snowflake tables and queries verified.
-- [ ] Visualization sketches completed.
-- [ ] Dashboard created and tested.
-- [ ] Optional machine learning model completed, if selected.
-- [ ] Presentation slides completed.
-- [ ] Presentation practiced.
-- [ ] Backup screenshots and project files prepared.
+- [X] All source datasets inspected and documented.
+- [X] Weather data imported successfully.
+- [X] Data cleaning and validation completed.
+- [X] ERD and DDL completed.
+- [X] Raw and transformed data stored appropriately.
+- [X] ETL pipeline runs successfully.
+- [X] ETL documentation completed.
+- [X] Airflow DAG runs successfully.
+- [X] Snowflake tables and queries verified.
+- [X] Visualization sketches completed.
+- [X] Dashboard created and tested.
+- [X] Presentation slides completed.
+- [X] Presentation practiced.
+- [X] Backup screenshots and project files prepared.
 
 ---
 

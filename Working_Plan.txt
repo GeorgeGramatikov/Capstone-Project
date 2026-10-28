@@ -1,19 +1,22 @@
-5-10 Questions on what we are looking into:
+Hypthosis Question: How does average temperature vary throughout the years across the  
+northern locations, and which location experiences the most extreme seasonal 
+temperature changes?
 
-1. How do temperatures in Yakutsk, Russia, change throughout the year?
+Base Questions:
 
-2. How do monthly precipitation and snowfall patterns differ across the selected locations?
+1. Which location has the greatest change in monthly temperature throughout the years?
 
-3. Which selected location receives the most annual snowfall?
+2. Which selected location experiences the lowest temperatures?
 
-4. Which selected location experiences the lowest temperatures?
+3. Which selected location experiences the highest temperatures?
 
-5. Which selected location experiences the highest temperatures?
+4. Which selected location receives the least annual snowfall?
 
-6. How do average monthly temperatures compare across the selected locations?
+5. Which selected location receives the most annual snowfall?
 
-7. What long-term temperature trends are visible in Antarctica? (Global Warming)?
+6. Which selected location receives the least rainfall?
 
+7. Which selected location receives the most rainfall?
 
 Datasets:
 - All my weather datasets were taken using Historical Weather API https://open-meteo.com/en/docs/historical-weather-api

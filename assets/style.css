@@ -1,0 +1,19 @@
+
+.dash-range-slider-input { /*year range outside the slider text*/
+    color: black !important;
+    font-weight: 700 !important;
+}
+
+.dash-dropdown-placeholder { /*all locations text*/
+    color: #000000 !important;
+    font-weight: 600;
+}
+
+.dash-dropdown-value * { /*dropdown text for locations*/
+    color: black !important;
+}
+
+.dash-slider-track { /*purple slider*/
+    background-color: #8b5cf6 !important; 
+}
+

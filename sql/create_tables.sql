@@ -14,7 +14,7 @@ create table locations(
 create table daily_weather(
     weather_id int not null,
     location_id int not null,
-    date DATE not null,
+    weather_date DATE not null,
     temp_mean_c numeric(5,1),
     temp_max_c numeric(5,1),
     temp_min_c numeric(5,1),
