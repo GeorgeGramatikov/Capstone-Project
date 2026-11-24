@@ -6,6 +6,9 @@ Northern Weather Analytics is a data engineering project that analyzes historica
 
 The goal is to compare climates, identify seasonal patterns, and understand historical weather differences across some of the world's coldest regions.
 
+## ETL Pipeline Structure
+![ETL_Pipeline](img/ETL_pipeline.png)
+
 ## Locations
 
 The project analyzes historical weather data from seven locations:
@@ -45,6 +48,8 @@ The project follows an ETL workflow to transform raw weather data into an analyt
 ## Interactive Dashboard
 
 The dashboard allows users to filter weather data by location and year and explore historical climate trends.
+
+![website_representation](img/website_representation.png)
 
 ### Dashboard Features
 
